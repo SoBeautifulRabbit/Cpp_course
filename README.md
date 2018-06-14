@@ -11,7 +11,7 @@ Each small project contains:
 
 Here is a brief introduction for each project:
 
-## [Project 1: Wawa pick up beans](https://github.com/SoBeautifulRabbit/Cpp_course/tree/master/homework1_Wawa_pick_up_beans)
+## [Project 1: Wawa picks up beans](https://github.com/SoBeautifulRabbit/Cpp_course/tree/master/homework1_Wawa_picks_up_beans)
 Wawa is a cute robot who picks up beans in a maze. He can not break through the walls.
 Design an algorithm for Wawa, so that he can pick up all the beans with minimun steps.
 
